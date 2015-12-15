@@ -1,4 +1,4 @@
-var myFirebaseRef = new Firebase("https://blinding-torch-9465.firebaseio.com/");
+var myFirebaseRef = new Firebase("https://<YOUR-FIREBASE-APP>.firebaseio.com/");
 function getCurrentTabUrl(callback) {
   var queryInfo = {
     active: true,
