@@ -3,7 +3,7 @@ simple chrome extension to save the url and title of the current tab you're on i
 
 # setup
 ```
-$ git install firemarks
+$ git clone firemarks
 $ cd firemarks
 ```
 
